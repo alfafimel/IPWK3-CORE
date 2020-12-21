@@ -9,6 +9,7 @@ Your goal for this week's independent project will be to create a sampling plan 
 Your expected sampling plan will contain the following sections:
 
 ## 1. Sampling Strategy
+
 Objectives and Reliability Requirements
 
 A description of the sampling effort, the time frame, and the estimated parameter value(s). For example, the objective is determining the mean monthly value of parameter X during the crediting period.
@@ -33,6 +34,7 @@ This shall agree with the information about the target population and sampling d
 Field Measurements
 
 Identification of all the variables to be measured, and the timing and frequency of the measurements. Methods of measurement shall be described as appropriate.
+
 Quality Assurance / Quality Control
 
 Description of how to achieve good quality data, e.g. describing the procedures for conducting the data collection and/or field measurements including training of field personnel, provisions for maximizing response rates, documenting out-of-population cases, refusals and other sources of non-response, and related issues.
@@ -41,6 +43,7 @@ Analysis
 
 Description of how the data will be used.
 Role of normality within the worked on data.
+
 ## 3. Implementation
 Implementation Plan
 
